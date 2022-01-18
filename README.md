@@ -16,4 +16,4 @@ The following figure shows the RISC-V CPU Core that I developed.
 
 ![Image 13-01-22 at 3 11 AM](https://user-images.githubusercontent.com/85869106/149225748-e6fad9c9-7417-4093-9179-8451522d702c.jpg)
 
-If you want to contribute and or point out some improvements to be done in the core, just mail me on the address on my profile page!
+If you want to contribute and or point out some improvements to be done in the core, just mail me on the address on my profile page!!
