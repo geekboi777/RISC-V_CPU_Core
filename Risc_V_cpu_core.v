@@ -1,4 +1,4 @@
-\m4_TLV_version 1d: tl-x.org
+\m4_TLV_version 1d: tl-x.org // this line is mainly for spcifying the required TL verilog version in use and the m4 chip macropreprcoessing and link to the docs.
 \SV
    // This code can be found in: https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core/risc-v_shell.tlv
    // this code is completely written in tl - verilog and the visualisation was done using Makerchip ide VIZ
